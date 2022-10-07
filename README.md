@@ -3,6 +3,7 @@ Script para geolocalizar un número de teléfono
 En Windows:
 
 python3 PhoneOSINT.py
+
 Ingresar número de teléfono
 
 En Linux:
